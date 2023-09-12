@@ -1,0 +1,36 @@
+/***************************************/
+/* Start Client & Testimonial Section
+/***************************************/
+
+
+#testimonial-section {
+    background: url(images/parallax/call-to.jpg) no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+    color: whitesmoke;
+}
+
+.testimonial-item {
+    text-align: center;
+}
+
+.testimonial-item p {
+    color: whitesmoke;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.testimonial-item img {
+    width: 100px;
+    height: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+}
+
+.testimonial-item .desgnation {
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
